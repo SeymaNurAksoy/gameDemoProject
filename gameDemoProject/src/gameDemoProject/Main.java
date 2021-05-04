@@ -30,9 +30,9 @@ public class Main {
 		CampaignManager campaignManager = new CampaignManager();
 		campaignManager.addCampaign(campaign);
 		
-		Player player = new Player(1,"Þeyma Nur ","Aksoy",12752239584l,2000);
+		Player player = new Player(1,"Þeyma Nur ","Aksoy",11111111111l,2000);
 		
-		Player player2 = new Player(1,"Þeyma Nur ","Aksoy",1752239584l,2000);
+		Player player2 = new Player(1,"Þeyma Nur ","Aksoy",11111111111l,2000);
 
 		PlayerManager playerManager= new PlayerManager(new MerniseServiceAdapter(),new SalesManager());
 		//playerManager.save(player);
